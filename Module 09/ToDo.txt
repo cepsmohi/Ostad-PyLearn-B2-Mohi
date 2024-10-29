@@ -1,0 +1,12 @@
+TODO:
+1.Select All Row
+2.Select Specific Columns
+3.Where Clause
+4.Order By Clause
+5.Insert Data
+6.Update Data
+7.Delete Data
+8.Count Rows
+9.Group By Clause
+10.Having Clause
+11.Distinct Values

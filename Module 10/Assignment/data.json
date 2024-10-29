@@ -1,0 +1,57 @@
+{
+    "students": {
+        "S001": {
+            "name": "Sami",
+            "age": 22,
+            "address": "Dhaka",
+            "student_id": "S001",
+            "grades": {
+                "PHY101": "A"
+            },
+            "courses": [
+                "Physics"
+            ]
+        },
+        "S002": {
+            "name": "Mohi",
+            "age": 22,
+            "address": "Dhaka",
+            "student_id": "S002",
+            "grades": {
+                "PHY101": "A"
+            },
+            "courses": [
+                "Physics"
+            ]
+        },
+        "S003": {
+            "name": "Jamal",
+            "age": 25,
+            "address": "Barisal",
+            "student_id": "S003",
+            "grades": {},
+            "courses": [
+                "Chemistry"
+            ]
+        }
+    },
+    "courses": {
+        "PHY101": {
+            "course_name": "Physics",
+            "course_code": "PHY101",
+            "instructor": "Dr. ABC",
+            "students": [
+                "S001",
+                "S002"
+            ]
+        },
+        "CHE102": {
+            "course_name": "Chemistry",
+            "course_code": "CHE102",
+            "instructor": "Mr. DBC",
+            "students": [
+                "S003"
+            ]
+        }
+    }
+}

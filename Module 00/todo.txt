@@ -1,0 +1,12 @@
+Todo:
+1. Seletct All Row  - done
+2. Seletct Specific colume - done
+3. Where Clause - done
+4. order by -  done
+5. Insert  - done
+6. Update - done
+7. delete - done
+8. count Row - done
+9. group by - done
+10. having - done
+11. Distinct - done
