@@ -1,0 +1,14 @@
+Requirements analysis:
+
+1. Initial account
+	(a) Login form (Mandatory)
+		(i) User Email
+		(ii) User Password
+
+2. Total  Balance (Initial Balance)
+
+3. Deposit Balance
+	(a) Add Deposit Balance field
+
+4. Withdraw Balance
+	(a) Add Withdraw Balance field

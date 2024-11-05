@@ -1,0 +1,21 @@
+* {
+  background-color: black;
+  color: white;
+  /* background-image: url(https://img.freepik.com/free-photo/view-spectacular-nature-landscape_23-2150763636.jpg);
+  background-repeat: no-repeat;
+  background-size: 100vh; */
+}
+
+.title {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+}
+
+.content {
+  margin: 15px;
+  border: 3px solid blueviolet;
+  padding: 5px;
+}
