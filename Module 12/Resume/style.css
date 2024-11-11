@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  margin: auto;
+  max-width: 100%;
+  justify-content: center;
+}
+.profile {
+  padding: 10px;
+}
+/* .th {
+  height: 50%;
+  border: 1px solid blue;
+  margin: 10px;
+} */
+
+.contact {
+  padding: 20px;
+}
+.contact-info {
+  margin: 2px;
+}
+
+.sidebar-title {
+  font-size: 20px;
+  color: blue;
+}
+.sidebar-content {
+  padding: 10px;
+}
+.main-content {
+  margin-top: 50px;
+}
+.heading {
+  background-color: yellowgreen;
+  padding: 10px;
+}
+
+.experience {
+  margin-top: 50px;
+}
+
+.experience-content {
+  padding: 10px;
+}
+.reference {
+  margin-top: 20px;
+}
+.reference-content {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}

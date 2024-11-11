@@ -1,0 +1,105 @@
+h2{
+    color: green;
+    background-color: black;
+}
+
+p{
+    color: blue;
+}
+
+/* Class Selector */
+.redText{
+    color: red;
+    text-align: center;
+}
+
+/* ID Selector */
+#idSelectorExample{
+    color: yellow;
+    text-align: right;
+}
+
+/* Group Selector */
+article,span{
+    color: aqua;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.box{
+    height: 500px;
+    border: 2px solid red;
+    background-color: aqua;
+    background-image: url('./gradient-desktop-b03ebaa2.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.textBlue{
+    color: #9EDF9C;
+
+}
+
+.boxTwo{
+    height: 2000px;
+    border: 2px solid blue;
+    margin: 30px;
+    background-image: url('./dog.png');
+    background-repeat: repeat-y;
+    background-position: center;
+}
+
+.box1{
+
+    height: 200px;
+    width: 200px;
+    background-color: #9EDF9C;
+    border: 5px solid red;
+    /* border-style: dashed; */
+    border-radius: 50%;
+    cursor: copy;
+    float: right;
+
+}
+
+.box2{
+    height: 200px;
+    width: 400px;
+    background-color: #FAB12F;
+    border: 3px dashed green;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.box2:hover{
+    background-color: black;
+    height: 400px;
+}
+.box3{
+    height: 200px;
+    width: 300px;
+    background-color: #FEF3E2;
+    border: 6px dotted black;
+    border-radius: 20px 40px 5px 35px;
+    cursor: crosshair;
+    
+}
+.box4{
+    height: 200px;
+    width: 500px;
+    background-color: #FA4032;
+}
+
+.displayNone{
+    display: none;
+}
+.inlineDisplay{
+    display: inline;
+}
+
+.white{
+    color: white;
+}
+.blue{
+    color: blue;
+}
