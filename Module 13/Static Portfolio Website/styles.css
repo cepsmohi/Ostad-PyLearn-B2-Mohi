@@ -1,0 +1,25 @@
+.nav {
+  justify-content: space-between;
+}
+.logo {
+  height: 50px;
+}
+.text {
+  text-align: justify;
+}
+.headingImg {
+  height: 70%;
+}
+.ancor {
+  text-decoration: none;
+  color: gray;
+}
+a:hover {
+  text-decoration: none;
+  color: blue;
+}
+
+.card:hover {
+  background-color: black;
+  color: white;
+}
